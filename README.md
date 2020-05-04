@@ -17,7 +17,8 @@ This repo suggests a way to organize Altium's files and folders to use them with
 ## How to use this repo
 
 **1)** Click in "Use this template" button, it will redirect you to the page that will create a new repository from altium_project_template
-![1 Use this template button](images/1 Use this template button.jpg)
+
+![1_Use_this_template_button](images/1_Use_this_template_button.jpg)
 
 **2)** Give your brand new repository a name accordingly to the project you are working on. It is, also, highly recommended to describe what this repository is about in the "Description" field. Choose if this repository will be a Public ou Private repo (can be changed later) and select "Include all branches" markbox. Then click in "Create repository from template"
 
