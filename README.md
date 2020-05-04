@@ -60,7 +60,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![11_local_repo](images/11_local_repo.jpg)
 
-**12)** Here you have .OutJob (outjob), .PcbDoc (pcb), .PrjDoc (project name), and .SchDoc (sch) files. outjob, pcb and sch files should not be renamed, but it is highly recommended to rename project name file accordingly to the project you are working on (yes, it can have the same name as the repository)
+**12)** Here you have .OutJob (outjob), .PcbDoc (pcb), .PrjDoc (project name), and .SchDoc (sch) files. outjob, pcb and sch files **should not be renamed**, but it is highly recommended to rename project name file accordingly to the project you are working on (yes, it can have the same name as the repository)
 
 ![12_projects_folder](images/12_projects_folder.jpg)
 
@@ -80,12 +80,14 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![17_output_containers](images/17_output_containers.jpg)
 
-**18)** You can check on the "finals" folder the folders and files generated. It is good to use a Gerber viewer on the internet to check the Gerber files generated
+**18)** You can check on the "finals" folder the files that were generated. It is good to use a Gerber viewer to check the Gerber files generated
 
 ![18_finals](images/18_finals.jpg)
 
 **19)** If everything is ok, you should zip the GERBER and ODB folders and delete them
 
 ![19_zip](images/19_zip.jpg)
+
+![he-man3](images/he-man3.jpg)
 
 Feel free to improve this ;)
