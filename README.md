@@ -6,7 +6,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 - **project**
     - .SchDoc, .PcbDoc, .PrjDoc, and .OutJob files should be in this folder.
 - **finals**
-    - Gerber files, BOM, SCH and PCB PDF's, and any other output generated files shoul be in this folder.
+    - Gerber files, BOM, SCH, and PCB PDF's, and any other output generated files should be in this folder.
 - **libraries**
     - The libraries that you use on your project should be in this folder. (It is recommended to use libs as submodules).
 - **scripts**
@@ -20,7 +20,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![1_Use_this_template_button](images/1_Use_this_template_button.jpg)
 
-**2)** Give your brand new repository a name accordingly to the project you are working on. It is, also, highly recommended to describe what this repository is about in the "Description" field. Choose if this repository will be a Public ou Private repo (can be changed later) and select "Include all branches" markbox. Then click in "Create repository from template"
+**2)** Give your brand new repository a name accordingly to the project you are working on. It is, also, highly recommended to describe what this repository is about in the "Description" field. Choose if this repository will be a Public ou Private repo (can be changed later) and select "Include all branches" mark box. Then click in "Create repository from template"
 
 ![2_Create_new_repo_with_branches](images/2_Create_new_repo_with_branches.jpg)
 
@@ -36,11 +36,11 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![5_clone_repo](images/5_clone_repo.jpg)
 
-**6)** On the new window that just poped up, paste the repo's link on "URL" field and then click in "Clone the repo!"
+**6)** On the new window that just popped up, paste the repo's link on the "URL" field and then click in "Clone the repo!"
 
 ![6_clone_the_repo](images/6_clone_the_repo.jpg)
 
-**7)** When GitKraken is finished clonning your repo, a message will be shown informing you that. Now you should click "Open Now" button
+**7)** When GitKraken is finished cloning your repo, a message will be shown informing you that. Now you should click "Open Now" button
 
 ![7_succesfully_cloned](images/7_succesfully_cloned.jpg)
 
@@ -60,7 +60,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![11_local_repo](images/11_local_repo.jpg)
 
-**12)** Here you have .OutJob (outjob), .PcbDoc (pcb), .PrjDoc (project name), and .SchDoc (sch) files. outjob, pcb and sch files should not be renammed, but it is highly recommended to rename project name file accordingly to the project you are working on (yes, it can have the same name as the repository)
+**12)** Here you have .OutJob (outjob), .PcbDoc (pcb), .PrjDoc (project name), and .SchDoc (sch) files. outjob, pcb and sch files should not be renamed, but it is highly recommended to rename project name file accordingly to the project you are working on (yes, it can have the same name as the repository)
 
 ![12_projects_folder](images/12_projects_folder.jpg)
 
@@ -76,11 +76,11 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![16_output](images/16_output.jpg)
 
-**17)** On the outjob.OutJob file, there is a windown called "Output Containers" which has all the files that we want to generate from the project. You should go one by one and click on "Generate content". There will be a little bit of loading time on each file
+**17)** On the outjob.OutJob file, there is a window called "Output Containers" which has all the files that we want to generate from the project. You should go one by one and click on "Generate content". There will be a little bit of loading time on each file
 
 ![17_output_containers](images/17_output_containers.jpg)
 
-**18)** You can check on "finals" folder the folders and files generated. It is good to use a gerber viewer on the internet to check the gerber files generated
+**18)** You can check on the "finals" folder the folders and files generated. It is good to use a Gerber viewer on the internet to check the Gerber files generated
 
 ![18_finals](images/18_finals.jpg)
 
