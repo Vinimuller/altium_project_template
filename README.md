@@ -34,7 +34,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 **9)** Submodule add has to be here
 
-**10)** Now go find the local repository on your desktop (you should know where it is). Mine is at C:\Users\Celmer\Documents\GitHub, for example
+**10)** Now go find the local repository on your desktop (you should know where it is). Mine is at C:\Users\Celmer\Documents\GitHub, for example. Find and open the repository you have just created
 
 **11)** On this folder you can see your repository folders and files. You can explore it later. Open "project" folder
 
