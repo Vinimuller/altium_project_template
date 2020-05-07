@@ -71,7 +71,7 @@ Now you can start working on the project itself. Edit the pcb.PcbDoc and sch.Sch
 
 ### Generating output files
 
-1. After your work is done, on Altium, open outjob.OutJob file (it is in Settings, Output Job Files):
+1. After your work is done, on Altium, open outjob.OutJob file (it is in Settings>Output Job Files):
 ![16_output](images/16_output.jpg)
 
 2. On the outjob.OutJob file, there is a window called "Output Containers" which has all the files that we want to generate from the project. You should go one by one and click on "Generate content". There will be a little bit of loading time on each file:
