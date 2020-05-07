@@ -67,7 +67,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ### Using the template
 
-Now you can start working on the project itself. Edit the .PcbDoc and .SchDoc files with your work.
+Now you can start working on the project itself. Edit the pcb.PcbDoc and sch.SchDoc files with your work.
 
 ### Generating output files
 
