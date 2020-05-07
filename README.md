@@ -1,7 +1,12 @@
 # Altium Project Template
+
+---
+
 This repo suggests a way to organize Altium's files and folders to use them with Git.
 
 ## Organization
+
+---
 
 - **project**
     - .SchDoc, .PcbDoc, .PrjDoc, and .OutJob files should be in this folder.
@@ -14,7 +19,10 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 .gitignore file is set to keep track of .SchDoc, .PcbDoc, .PrjDoc, .OutJob files, finals fodler, libraries and scripts.
 
+
 ## How to use this repo
+
+---
 
 **1)** Click in "Use this template" button, it will redirect you to the page that will create a new repository from altium_project_template
 
