@@ -24,6 +24,8 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ---
 
+###Cloning and configuring
+
 **1)** Click in "Use this template" button, it will redirect you to the page that will create a new repository from altium_project_template
 
 ![1_Use_this_template_button](images/1_Use_this_template_button.jpg)
@@ -68,17 +70,19 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ![11_local_repo](images/11_local_repo.jpg)
 
-**12)** Here you have .OutJob (outjob), .PcbDoc (pcb), .PrjDoc (project name), and .SchDoc (sch) files. outjob, pcb and sch files **should not be renamed**, but it is highly recommended to rename project name file accordingly to the project you are working on (yes, it can have the same name as the repository)
+**12)** Here you have .OutJob (outjob), .PcbDoc (pcb), .PrjDoc (project name), and .SchDoc (sch) files. outjob, pcb and sch files **must not be renamed**, but it is highly recommended to rename project name file accordingly to the project you are working on (yes, it can have the same name as the repository)
 
 ![12_projects_folder](images/12_projects_folder.jpg)
 
 **13)** After renaming "project name" file, you can open it and start working (it is assumed that you know how to use Altium)
 
-**14)** Add the libraries to the project
+**14)** Install or Add the libraries to the project
 
-![](images/.jpg)
+### Using the template
 
 **15)** Now you can start working on the project itself
+
+### Generating output files
 
 **16)** After your work is done, on Altium, open outjob.OutJob file (it is in Settings, Output Job Files)
 
