@@ -24,7 +24,7 @@ This repo suggests a way to organize Altium's files and folders to use them with
 
 ---
 
-###Cloning and configuring
+### Cloning and configuring
 
 1. Click in "Use this template" button, it will redirect you to the page that will create a new repository from altium_project_template:
 ![1_Use_this_template_button](images/1_Use_this_template_button.jpg)
